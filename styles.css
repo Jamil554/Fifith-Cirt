@@ -2,21 +2,3 @@
   
 }
 
-header {
-  position: fixed;
-  width: 100%;
-  top: 0;
-  left: 0;
-  background-color: #000000;
-  color: white;
-  font-family: 'Exo 2', sans-serif;
-  padding: 1em;
-}
-p{
-  position: fixed;
-  text-alighn: center;
-  font-family: Railway, sans-serif;
-}
-h1{
-text-align: center;
-}
