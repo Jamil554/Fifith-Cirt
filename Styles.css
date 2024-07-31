@@ -9,3 +9,8 @@ header {
   height: 19px;
   padding: 25px 0px; 
 }
+p{
+  position: fixed;
+  text-alighn: center;
+  font-family: Railway, sans-serif;
+}
