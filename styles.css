@@ -1,6 +1,8 @@
 .body{
   background-color: #000000;
-  color: blue;
-  text-align: center;
+  color: red;
   font-family: Railway, sans-serif;
+}
+.h1{
+text-align: center;
 }
